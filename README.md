@@ -23,7 +23,9 @@ python3 -m http.server 8000
 
 3. NodeJs-Webserver starten:
 ```bash
-python3 -m http.server 8000
+cd attackerServ
+npm start
 ```
 
-3. Browser öffnen und zu `http://localhost:8000` navigieren
+4. Browser öffnen und zu `http://localhost:8000` navigieren
+5. Browser öffnen und zu `http://localhost:3000` navigieren
