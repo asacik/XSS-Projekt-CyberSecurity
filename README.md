@@ -21,4 +21,9 @@ cd reflected-xss-demo
 python3 -m http.server 8000
 ```
 
+3. NodeJs-Webserver starten:
+```bash
+python3 -m http.server 8000
+```
+
 3. Browser öffnen und zu `http://localhost:8000` navigieren
